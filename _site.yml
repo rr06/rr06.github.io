@@ -1,0 +1,6 @@
+name: "rr06"
+navbar:
+  title: "rr06"
+  left:
+    - text: "Home"
+      href: index.html
